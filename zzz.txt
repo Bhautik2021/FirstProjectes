@@ -1,0 +1,14 @@
+npm i bootstrap@5.0.0-alpha1
+
+ctr + f for replace class to className
+
+<div className="container-fluid nav_bg">
+        <div className="row" >
+            <div className="col-10 mx-auto">
+                
+            </div>
+        </div>
+    </div>
+
+
+// koi pan website ma frant-end and back-end both side user validations hovu joi ye
